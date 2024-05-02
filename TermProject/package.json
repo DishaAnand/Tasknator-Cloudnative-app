@@ -1,0 +1,29 @@
+{
+  "name": "miniprojectt1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.540.0",
+    "@vitejs/plugin-react": "^4.2.1",
+    "amazon-cognito-identity-js": "^6.3.12",
+    "antd": "^5.16.0",
+    "aws-amplify": "^6.0.25",
+    "pnpm": "^8.15.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.0",
+    "vite": "^5.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "sass": "^1.70.0"
+  }
+}
