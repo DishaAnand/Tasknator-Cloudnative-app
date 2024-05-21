@@ -1,4 +1,4 @@
-# Tasnator Cloud Native App
+# Tasknator Cloud Native App
 
 A scalable and efficient cloud-native application for managing tasks, leveraging various AWS services and modern web technologies.
 
