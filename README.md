@@ -2,6 +2,9 @@
 
 Tasknator is a user-friendly React-based To-Do list app with AWS SNS email notifications for task deletions. It leverages various AWS services to ensure scalability, security, and efficient deployment.
 
+![tasknator](https://github.com/DishaAnand/Tasknator-Cloudnative-app/assets/102431437/4d00ed6e-6499-495d-9d3d-904bbb613320)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Architecture](#architecture)
@@ -29,8 +32,6 @@ Tasknator utilizes a serverless architecture with the following AWS services:
 - **Amazon API Gateway**: Exposes Lambda functions as HTTP endpoints.
 - **AWS DynamoDB**: Stores tasks and user data.
 - **AWS EC2 & AWS ECR**: Hosts and stores the application's Docker containers for deployment.
-
-![Architecture Diagram](path_to_architecture_diagram.png)  <!-- Add the architecture diagram here -->
 
 ## Demo
 Check out the live demo [here](https://drive.google.com/file/d/1OfFTDkedJTgRzVj-2kaVGM6OgX1FWekq/view?usp=drive_link).
